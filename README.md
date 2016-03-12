@@ -1,6 +1,9 @@
-# FMS
-A temporary website for Financial State Machine. 
+# Hyfer
+A temporary website for Hyfer Tech. 
 
 #TODO 
-Connect to linked in
+Connect to linkedin
+Add logo to status bar
+Add links to our apps
+
 

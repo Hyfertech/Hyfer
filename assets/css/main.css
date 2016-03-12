@@ -49,7 +49,7 @@ h6 {
 
 
 .navbar-nav>li>a : hover{
-  color: #fff;
+  color: #00A9EB;
 }
 
 .intro-message {
@@ -242,7 +242,7 @@ p.copyright {
     font-size: 1.8em;
 }
 #team ul li:hover {
-    background: #BDBDBD;
+    background: #00A9EB;
 }
 #team ul li {
     display: inline-block;

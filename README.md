@@ -2,8 +2,13 @@
 A temporary website for Hyfer Tech. 
 
 #TODO 
-Connect to linkedin<br>
-Add logo to status bar<br>
-Add links to our apps
+<ul>
+  <li>Connect to linkedin</li>
+  <li>Add logo to status bar</li>
+  <li>Add links to our apps</li>
+</ul>
+
+
+
 
 
